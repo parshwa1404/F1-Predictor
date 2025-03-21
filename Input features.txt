@@ -1,0 +1,15 @@
+Qualifying Time (in seconds) – The most critical indicator of raw pace
+Previous Race Results at the Same Circuit – Performance history on that track
+Season Performance (Driver Points & Finishing Positions) – Measures overall form
+Top Speed in Qualifying (km/h) – Speed trap data from the qualifying session
+Pit Stop Efficiency (avg. pit stop time) – How quick the pit crew is
+Track Type (Street Circuit vs. Permanent) – Impacts car setup & driving style
+Weather Conditions (Temperature, Rain, Wind Speed) – Affects grip & tire wear
+Track Temperature – Determines tire degradation rates
+Team (One-Hot Encoded: Mercedes, Red Bull, Ferrari, etc.) – Performance trends
+Car Upgrades (Binary Feature: 1 = New Aero Package, 0 = No Upgrade)
+Tire Strategy (Soft/Medium/Hard Choices) – Affects race pace
+Penalties (Time Penalties, Grid Drops, Drive-Throughs)
+Number of Overtakes in Previous Races at the Circuit – Overtaking difficulty
+Safety Car Probability (Based on Historical Data) – Can shake up race order
+DNF Probability (Retirement Rate per Driver & Team)
