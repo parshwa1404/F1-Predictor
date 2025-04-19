@@ -1,0 +1,170 @@
+season,constructorId,name,nationality
+2010,ferrari,Ferrari,Italian
+2010,force_india,Force India,Indian
+2010,hrt,HRT,Spanish
+2010,lotus_racing,Lotus,Malaysian
+2010,mclaren,McLaren,British
+2010,mercedes,Mercedes,German
+2010,red_bull,Red Bull,Austrian
+2010,renault,Renault,French
+2010,sauber,Sauber,Swiss
+2010,toro_rosso,Toro Rosso,Italian
+2010,virgin,Virgin,British
+2010,williams,Williams,British
+2011,ferrari,Ferrari,Italian
+2011,force_india,Force India,Indian
+2011,hrt,HRT,Spanish
+2011,lotus_racing,Lotus,Malaysian
+2011,mclaren,McLaren,British
+2011,mercedes,Mercedes,German
+2011,red_bull,Red Bull,Austrian
+2011,renault,Renault,French
+2011,sauber,Sauber,Swiss
+2011,toro_rosso,Toro Rosso,Italian
+2011,virgin,Virgin,British
+2011,williams,Williams,British
+2012,caterham,Caterham,Malaysian
+2012,ferrari,Ferrari,Italian
+2012,force_india,Force India,Indian
+2012,hrt,HRT,Spanish
+2012,lotus_f1,Lotus F1,British
+2012,marussia,Marussia,Russian
+2012,mclaren,McLaren,British
+2012,mercedes,Mercedes,German
+2012,red_bull,Red Bull,Austrian
+2012,sauber,Sauber,Swiss
+2012,toro_rosso,Toro Rosso,Italian
+2012,williams,Williams,British
+2013,caterham,Caterham,Malaysian
+2013,ferrari,Ferrari,Italian
+2013,force_india,Force India,Indian
+2013,lotus_f1,Lotus F1,British
+2013,marussia,Marussia,Russian
+2013,mclaren,McLaren,British
+2013,mercedes,Mercedes,German
+2013,red_bull,Red Bull,Austrian
+2013,sauber,Sauber,Swiss
+2013,toro_rosso,Toro Rosso,Italian
+2013,williams,Williams,British
+2014,caterham,Caterham,Malaysian
+2014,ferrari,Ferrari,Italian
+2014,force_india,Force India,Indian
+2014,lotus_f1,Lotus F1,British
+2014,marussia,Marussia,Russian
+2014,mclaren,McLaren,British
+2014,mercedes,Mercedes,German
+2014,red_bull,Red Bull,Austrian
+2014,sauber,Sauber,Swiss
+2014,toro_rosso,Toro Rosso,Italian
+2014,williams,Williams,British
+2015,ferrari,Ferrari,Italian
+2015,force_india,Force India,Indian
+2015,lotus_f1,Lotus F1,British
+2015,manor,Manor Marussia,British
+2015,mclaren,McLaren,British
+2015,mercedes,Mercedes,German
+2015,red_bull,Red Bull,Austrian
+2015,sauber,Sauber,Swiss
+2015,toro_rosso,Toro Rosso,Italian
+2015,williams,Williams,British
+2016,ferrari,Ferrari,Italian
+2016,force_india,Force India,Indian
+2016,haas,Haas F1 Team,American
+2016,manor,Manor Marussia,British
+2016,mclaren,McLaren,British
+2016,mercedes,Mercedes,German
+2016,red_bull,Red Bull,Austrian
+2016,renault,Renault,French
+2016,sauber,Sauber,Swiss
+2016,toro_rosso,Toro Rosso,Italian
+2016,williams,Williams,British
+2017,ferrari,Ferrari,Italian
+2017,force_india,Force India,Indian
+2017,haas,Haas F1 Team,American
+2017,mclaren,McLaren,British
+2017,mercedes,Mercedes,German
+2017,red_bull,Red Bull,Austrian
+2017,renault,Renault,French
+2017,sauber,Sauber,Swiss
+2017,toro_rosso,Toro Rosso,Italian
+2017,williams,Williams,British
+2018,ferrari,Ferrari,Italian
+2018,force_india,Force India,Indian
+2018,haas,Haas F1 Team,American
+2018,mclaren,McLaren,British
+2018,mercedes,Mercedes,German
+2018,red_bull,Red Bull,Austrian
+2018,renault,Renault,French
+2018,sauber,Sauber,Swiss
+2018,toro_rosso,Toro Rosso,Italian
+2018,williams,Williams,British
+2019,alfa,Alfa Romeo,Swiss
+2019,ferrari,Ferrari,Italian
+2019,haas,Haas F1 Team,American
+2019,mclaren,McLaren,British
+2019,mercedes,Mercedes,German
+2019,racing_point,Racing Point,British
+2019,red_bull,Red Bull,Austrian
+2019,renault,Renault,French
+2019,toro_rosso,Toro Rosso,Italian
+2019,williams,Williams,British
+2020,alfa,Alfa Romeo,Swiss
+2020,alphatauri,AlphaTauri,Italian
+2020,ferrari,Ferrari,Italian
+2020,haas,Haas F1 Team,American
+2020,mclaren,McLaren,British
+2020,mercedes,Mercedes,German
+2020,racing_point,Racing Point,British
+2020,red_bull,Red Bull,Austrian
+2020,renault,Renault,French
+2020,williams,Williams,British
+2021,alfa,Alfa Romeo,Swiss
+2021,alphatauri,AlphaTauri,Italian
+2021,alpine,Alpine F1 Team,French
+2021,aston_martin,Aston Martin,British
+2021,ferrari,Ferrari,Italian
+2021,haas,Haas F1 Team,American
+2021,mclaren,McLaren,British
+2021,mercedes,Mercedes,German
+2021,red_bull,Red Bull,Austrian
+2021,williams,Williams,British
+2022,alfa,Alfa Romeo,Swiss
+2022,alphatauri,AlphaTauri,Italian
+2022,alpine,Alpine F1 Team,French
+2022,aston_martin,Aston Martin,British
+2022,ferrari,Ferrari,Italian
+2022,haas,Haas F1 Team,American
+2022,mclaren,McLaren,British
+2022,mercedes,Mercedes,German
+2022,red_bull,Red Bull,Austrian
+2022,williams,Williams,British
+2023,alfa,Alfa Romeo,Swiss
+2023,alphatauri,AlphaTauri,Italian
+2023,alpine,Alpine F1 Team,French
+2023,aston_martin,Aston Martin,British
+2023,ferrari,Ferrari,Italian
+2023,haas,Haas F1 Team,American
+2023,mclaren,McLaren,British
+2023,mercedes,Mercedes,German
+2023,red_bull,Red Bull,Austrian
+2023,williams,Williams,British
+2024,alpine,Alpine F1 Team,French
+2024,aston_martin,Aston Martin,British
+2024,ferrari,Ferrari,Italian
+2024,haas,Haas F1 Team,American
+2024,mclaren,McLaren,British
+2024,mercedes,Mercedes,German
+2024,rb,RB F1 Team,Italian
+2024,red_bull,Red Bull,Austrian
+2024,sauber,Sauber,Swiss
+2024,williams,Williams,British
+2025,alpine,Alpine F1 Team,French
+2025,aston_martin,Aston Martin,British
+2025,ferrari,Ferrari,Italian
+2025,haas,Haas F1 Team,American
+2025,mclaren,McLaren,British
+2025,mercedes,Mercedes,German
+2025,rb,RB F1 Team,Italian
+2025,red_bull,Red Bull,Austrian
+2025,sauber,Sauber,Swiss
+2025,williams,Williams,British
